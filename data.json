@@ -1,0 +1,379 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "chuhautv117",
+      "avatar": "chuhau.jpeg",
+      "title": "Chú Hậu TV ✅",
+      "followed": 1,
+      "follower": 108400,
+      "like": 6800000,
+      "des": "BÓNG ĐÁ ⚽️ 🔥🔥🔥",
+      "mark_blue": 0,
+      "video": [
+        {
+          "id": 1, 
+          "name_video": "tv1.mp4", 
+          "des_video": "#chúhậu #chuhautv #chuhauleonuitv #KhoeDepDonTet #Hello2022", 
+          "music": "nhạc nền - Chu Thuý Quỳnh Official", 
+          "comment": 471, 
+          "love": 4840,
+          "share": 123 
+        },
+        {
+          "id": 2, 
+          "name_video": "tv2.mp4", 
+          "des_video": "Coutinho đẳng cấp là mãi mãi #chúhậu #chuhautv #chuhauleonuitv #KhoeDepDonTet #Hello2022", 
+          "music": "សំឡេងដើម - 《◇♡{MEAK🐲🐉}♡◇》 - Meak Official 💸🌟", 
+          "comment": 355, 
+          "love": 20500234,
+          "share": 12 
+        },
+        {
+          "id": 3, 
+          "name_video": "tv3.mp4", 
+          "des_video": "Trận lượt về sẽ rất đáng xem #chúhậu #chuhautv #chuhauleonuitv #KhoeDepDonTet #hello2022", 
+          "music": "សំឡេងដើម - 《◇♡{MEAK🐲🐉}♡◇》 - Meak Official 💸🌟", 
+          "comment": 193, 
+          "love": 13453,
+          "share": 43
+        },
+        {
+          "id": 4, 
+          "name_video": "tv4.mp4", 
+          "des_video": "Đen quá đen #chúhậu #chuhautv #chuhauleonuitv #KhoeDepDonTet #hello2022", 
+          "music": "សំឡេងដើម - 《◇♡{MEAK🐲🐉}♡◇》 - Meak Official 💸🌟", 
+          "comment": 223, 
+          "love": 234532,
+          "share": 34567
+        },
+        {
+          "id": 5, 
+          "name_video": "tv5.mp4", 
+          "des_video": "Hattrick VAR đều bất lợi cho Tot, nếu ko sẽ có cơ hội lội ngược dòng trước Chelsea #chúhậu #chuhautv #chuhauleonuitv #KhoeDepDonTet #hello2022", 
+          "music": "សំឡេងដើម - 《◇♡{MEAK🐲🐉}♡◇》 - Meak Official 💸🌟", 
+          "comment": 948, 
+          "love": 361,
+          "share": 12
+        },
+        {
+          "id": 6, 
+          "name_video": "tv6.mp4", 
+          "des_video": "Quá đen cho Tottenham 😂 #chúhậu #chuhautv #chuhauleonuitv #KhoeDepDonTet #hello2022", 
+          "music": "nhạc nền - 93NEWG OFFICIAL ✔️", 
+          "comment": 191, 
+          "love": 72234521,
+          "share": 12345
+         }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "beatvn_official",
+      "avatar": "beatvn.jpeg",
+      "title": "BEATVN",
+      "followed": 1,
+      "follower": 4600,
+      "like": 170,
+      "des": "Kênh TikTok chính thức của Beatvn LISTEN TO THE BEAT OF LIFE",
+      "mark_blue": 1,
+      "video": [
+        {
+          "id": 1, 
+          "name_video": "beat1.mp4", 
+          "des_video": "Đứng yên, tôi là cảnh sát hình sự đây #beatoflife #bnetwork #onhaxemtin", 
+          "music": "nhạc nền - BEATVN", 
+          "comment": 5458, 
+          "love": 3499,
+          "share": 0 
+        },
+        {
+          "id": 2, 
+          "name_video": "beat2.mp4", 
+          "des_video": "Hảo con #beatoflife #bnetwork #onhaxemtin", 
+          "music": "nhạc nền - BEATVN", 
+          "comment": 2607, 
+          "love": 67298485,
+          "share": 0
+        },
+        {
+          "id": 3, 
+          "name_video": "beat3.mp4", 
+          "des_video": "Quê quá các bạn uiii #beatoflife #bnetwork #onhaxemtin", 
+          "music": "nhạc nền - BEATVN", 
+          "comment": 121238, 
+          "love": 3131232,
+          "share": 76 
+        },
+        {
+          "id": 4, 
+          "name_video": "beat4.mp4", 
+          "des_video": "Hé lộ ông trùm đứng sau tất cả??? #beatoflife #bnetwork #onhaxemtin", 
+          "music": "nhạc nền - BEATVN", 
+          "comment": 7190, 
+          "love": 418125,
+          "share": 568 
+        },
+        {
+          "id": 5, 
+          "name_video": "beat5.mp4", 
+          "des_video": "Tác hại của chơi game quá 180 phút #beatoflife #bnetwork #onhaxemtin", 
+          "music": "nhạc nền - BEATVN", 
+          "comment": 2762, 
+          "love": 2295123423,
+          "share": 87
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "locfuho1995",
+      "avatar": "locho.jpeg",
+      "title": "Phạm Văn Lộc",
+      "followed": 0,
+      "follower": 108234,
+      "like": 6128,
+      "des": "Kênh Tiktok Duy Nhất-Lộc Fuho 👆Youtube….CÒN TẤT CẢ KÊNH TIKTOK KHÁC LÀ FAKE….",
+      "mark_blue": 0,
+      "video": [
+        {
+          "id": 1, 
+          "name_video": "ho1.mp4", 
+          "des_video": "Mẹ mắc làm ba phải giử sari nữa rồi", 
+          "music": "nhạc nền - Kiều Mini", 
+          "comment": 1490, 
+          "love": 2243984,
+          "share": 0
+        },
+        {
+          "id": 2, 
+          "name_video": "ho2.mp4", 
+          "des_video": "buồn ngủ mà ba bắt quay top top", 
+          "music": "Quán em có bán cà phê - Hưng Hack Remix", 
+          "comment": 2947, 
+          "love": 291234,
+          "share": 1
+        },
+        {
+          "id": 3, 
+          "name_video": "ho3.mp4", 
+          "des_video": "Mong 1 ngày nào đó có chiếc xe hơi chở đồ nghề đi fuho", 
+          "music": "Biết tìm đâu slow - RADIO OF ME", 
+          "comment": 1994, 
+          "love": 237264,
+          "share": 10 
+        },
+        {
+          "id": 4, 
+          "name_video": "ho4.mp4", 
+          "des_video": "2 em học sinh trổ tài", 
+          "music": "nhạc nền - Phạm Văn Lộc", 
+          "comment": 2229, 
+          "love": 1486754,
+          "share": 23
+        },
+        {
+          "id": 5, 
+          "name_video": "ho5.mp4", 
+          "des_video": "tết các em đừng có ăn nhậu nữa.😂", 
+          "music": "nhạc nền - Phạm Văn Lộc", 
+          "comment": 1234, 
+          "love": 12445,
+          "share": 54
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "phimhayvtv.99",
+      "avatar": "phimhay.jpg",
+      "title": "ℝ𝕖𝕧𝕚𝕖𝕨 ℙ𝕙𝕚𝕞",
+      "followed": 0,
+      "follower": 666443,
+      "like": 31121,
+      "des": "❤️ và follow để được xem những thước phim hay 👉 Email:vananhhaphong@gmail.com",
+      "mark_blue": 0,
+      "video": [
+        {
+          "id": 1, 
+          "name_video": "phim1.mp4", 
+          "des_video": "#photronglang #previewtap41 #xuhuong #phimhayvtv #reviewphim", 
+          "music": "nhạc nền - ℝ𝕖𝕧𝕚𝕖𝕨 ℙ𝕙𝕚𝕞", 
+          "comment": 90, 
+          "love": 533567,
+          "share": 154 
+        },
+        {
+          "id": 2, 
+          "name_video": "phim2.mp4", 
+          "des_video": "#photronglang #tap33 #xuhuong #reviewphim #phimhayvtv", 
+          "music": "nhạc nền - ℝ𝕖𝕧𝕚𝕖𝕨 ℙ𝕙𝕚𝕞", 
+          "comment": 69, 
+          "love": 312785,
+          "share": 67
+        },
+        {
+          "id": 3, 
+          "name_video": "phim3.mp4", 
+          "des_video": "#photronglang #tap37 #xuhuong #reviewphim #phimhayvtv", 
+          "music": "nhạc nền - ℝ𝕖𝕧𝕚𝕖𝕨 ℙ𝕙𝕚𝕞", 
+          "comment": 230, 
+          "love": 36736,
+          "share": 8
+        },
+        {
+          "id": 4, 
+          "name_video": "phim4.mp4", 
+          "des_video": "“Bố xin lỗi” - “Anh xin lỗi” Mến hứa sẽ thay đổi 🥰 #photronglang #tap40 #xuhuong #reviewphim #reviewphim", 
+          "music": "nhạc nền - ℝ𝕖𝕧𝕚𝕖𝕨 ℙ𝕙𝕚𝕞", 
+          "comment": 383, 
+          "love": 192345,
+          "share": 4
+        },
+        {
+          "id": 5, 
+          "name_video": "phim5.mp4", 
+          "des_video": "#photronglang #tap37 #xuhuong #reviewphim #phimhayvtv", 
+          "music": "nhạc nền - ℝ𝕖𝕧𝕚𝕖𝕨 ℙ𝕙𝕚𝕞", 
+          "comment": 402, 
+          "love": 805683,
+          "share": 1
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "selkenoel",
+      "avatar": "beat_box.jpeg",
+      "title": "🔥Beatbox - Videos🔥",
+      "followed": 1,
+      "follower": 1088674,
+      "like": 61268,
+      "des": "👑Follow for Good Beatbox Content👑 👑Daily Videos👑 🔥483,3k🔥",
+      "mark_blue": 0,
+      "video": [
+        {
+          "id": 1, 
+          "name_video": "box1.mp4", 
+          "des_video": "Materials are taken from the official YouTube channel: Chezame / Beatboxer: Inertia / #beatbox #viral #fyp #gbb #final #crowd #stage #chezame #sxin #inertia", 
+          "music": "original sound - 🔥Beatbox - Videos🔥", 
+          "comment": 45, 
+          "love": 322346,
+          "share": 0 
+        },
+        {
+          "id": 2, 
+          "name_video": "box2.mp4", 
+          "des_video": "Reply to @cum_30 Materials are taken from the official YouTube channel: Swissbeatbox / Beatboxer: Helium / #beatbox #viral #gbb #fyp #helium", 
+          "music": "original sound - 🔥Beatbox - Videos🔥", 
+          "comment": 70, 
+          "love": 252,
+          "share": 0 
+        },
+        {
+          "id": 3, 
+          "name_video": "box3.mp4", 
+          "des_video": "Materials are taken from the official YouTube channel: Swissbeatbox / Beatboxer: Inertia /#beatbox #viral #gbb #fyp #inertia #live", 
+          "music": "original sound - 🔥Beatbox - Videos🔥", 
+          "comment": 1339, 
+          "love": 4103,
+          "share": 120
+        },
+        {
+          "id": 4, 
+          "name_video": "box4.mp4", 
+          "des_video": "Materials are taken from the official YouTube Channel: Beatbox International / Beatboxer: Remix / #beatbox #viral #circlejam #bbxint #remix @remixbeatbox", 
+          "music": "original sound - 🔥Beatbox - Videos🔥", 
+          "comment": 1151, 
+          "love": 23123,
+          "share": 103
+        },
+        {
+          "id": 5, 
+          "name_video": "box5.mp4", 
+          "des_video": "Materials are taken from the official YouTube Channel: BCP GAMES / Beatboxer: ENEL / #beatbox #viral #react", 
+          "music": "Originalton - 🔥Beatbox - Videos🔥", 
+          "comment": 1568, 
+          "love": 21235684,
+          "share": 14
+        },
+        {
+          "id": 6, 
+          "name_video": "box6.mp4", 
+          "des_video": "Materials are taken from the official YouTube Channel: Dlow Beatbox / Reacter: @dlowmusic / #dlow #react #beatbox #bbx #sbx #fire #remix #fy", 
+          "music": "Originalton - 🔥Beatbox - Videos🔥", 
+          "comment": 4220, 
+          "love": 31124,
+          "share": 47
+        },
+        {
+          "id": 7, 
+          "name_video": "box7.mp4", 
+          "des_video": "Credits: D-low Music / Beatboxers on ig: dlowmusic (@dlowmusic ) / #beatbox #bbx #dlow #wildcard #gbb #talent #loopstation", 
+          "music": "Originalton - 🔥Beatbox - Videos🔥", 
+          "comment": 220, 
+          "love": 31986,
+          "share": 68
+         }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "vtv24news",
+      "avatar": "vtv24.jpeg",
+      "title": "VTV24",
+      "followed": 0,
+      "follower": 4.5,
+      "like": 1101111,
+      "des": "Mang tin tức đến gần hơn với giới trẻ",
+      "mark_blue": 1,
+      "video": [
+        {
+          "id": 1, 
+          "name_video": "vtv1.mp4", 
+          "des_video": "Táo quân 2022 hứa hẹn tiếp tục là món ăn tinh thần hấp dẫn đối với khán giả truyền hình trong dịp Tết Nguyên đán Nhâm Dần #tethungkhoi #vtvdigital", 
+          "music": "original sound - VTV24", 
+          "comment": 1587, 
+          "love": 1054278,
+          "share": 56
+        },
+        {
+          "id": 2, 
+          "name_video": "vtv2.mp4", 
+          "des_video": "Vẫn sự mộc mạc đó, anh chia sẻ: đừng gọi anh là anh hùng, hãy gọi anh như hàng ngày mọi người vẫn gọi - Anh Nam điều hòa #tiktokdieuky #vtvdigital", 
+          "music": "original sound - VTV24", 
+          "comment": 921, 
+          "love": 29,
+          "share": 53
+        },
+        {
+          "id": 4, 
+          "name_video": "vtv4.mp4", 
+          "des_video": "Người dân cầm sẵn bản đăng ký trên tay với mong muốn mua được loại pháo hoa mới để cùng gia đình đón giao thừa #tethungkhoi #vtvdigital #vtv24", 
+          "music": "original sound - VTV24", 
+          "comment": 158, 
+          "love": 362,
+          "share": 89
+        },
+        {
+          "id": 5, 
+          "name_video": "vtv5.mp4", 
+          "des_video": "Câu hỏi lớn khi đối tượng tâm thần được quản lý tại cộng đồng nhưng vẫn được cấp giấy phép lái xe, dẫn đến tai nạn thương tâm #vtvdigital #vtv24", 
+          "music": "original sound - VTV24", 
+          "comment": 334, 
+          "love": 23774,
+          "share": 32
+        },
+        {
+          "id": 6, 
+          "name_video": "vtv6.mp4", 
+          "des_video": "Nhóm bác sĩ quân y thuộc lực lượng hỗ trợ F0 online đã đưa ra danh sách 9 loại thuốc và 6 thiết bị F0 điều trị tại nhà cần chuẩn bị #vtv24 #vtvdigital", 
+          "music": "original sound - VTV24", 
+          "comment": 386, 
+          "love": 234874,
+          "share": 12
+         }
+      ]
+    }
+  ]
+}
